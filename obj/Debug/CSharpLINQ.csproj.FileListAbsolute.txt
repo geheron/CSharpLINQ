@@ -1,0 +1,7 @@
+C:\Users\gehoron.a\Desktop\VS Practice\CSharpLINQ\bin\Debug\CSharpLINQ.exe.config
+C:\Users\gehoron.a\Desktop\VS Practice\CSharpLINQ\bin\Debug\CSharpLINQ.exe
+C:\Users\gehoron.a\Desktop\VS Practice\CSharpLINQ\bin\Debug\CSharpLINQ.pdb
+C:\Users\gehoron.a\Desktop\VS Practice\CSharpLINQ\obj\Debug\CSharpLINQ.csproj.AssemblyReference.cache
+C:\Users\gehoron.a\Desktop\VS Practice\CSharpLINQ\obj\Debug\CSharpLINQ.csproj.CoreCompileInputs.cache
+C:\Users\gehoron.a\Desktop\VS Practice\CSharpLINQ\obj\Debug\CSharpLINQ.exe
+C:\Users\gehoron.a\Desktop\VS Practice\CSharpLINQ\obj\Debug\CSharpLINQ.pdb
